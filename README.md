@@ -5,7 +5,7 @@
 - トトロのメイとジャンケンをするアプリです
 
 ## ③アプリのデプロイURL
-デプロイしている場合はURLを記入（任意）
+https://masahiko-les.github.io/kadai01_janken/
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 - なし
